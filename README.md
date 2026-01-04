@@ -145,7 +145,7 @@ Action-oriented insights:
 
 ## 📁 Repository Contents
 
-* `Bank_Marketing_Dashboard.pbix` — Power BI dashboard file## Dashboard  
+* `Bank_Marketing_Dashboard.pbix` —  
 [**Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiNWFkMmMzNmUtZTQyYS00MjJiLWFmYjMtNjVlOGE0YjRkNGZmIiwidCI6ImRkYTgwZmMyLWE0MTAtNDhkYi1hY2MxLTc4ZTQ3NWNjNTk1MSIsImMiOjl9&embedImagePlaceholder=true) 
 * `README.md` — Project documentation
 * `Images/` — Dashboard screenshots 
