@@ -148,7 +148,8 @@ Action-oriented insights:
 * `Bank_Marketing_Dashboard.pbix` —  
 [**Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiNWFkMmMzNmUtZTQyYS00MjJiLWFmYjMtNjVlOGE0YjRkNGZmIiwidCI6ImRkYTgwZmMyLWE0MTAtNDhkYi1hY2MxLTc4ZTQ3NWNjNTk1MSIsImMiOjl9&embedImagePlaceholder=true) 
 * `README.md` — Project documentation
-* `Images/` — Dashboard screenshots 
+* `Images/` — Dashboard screenshots
+  [**screenshots**](https://github.com/msmmalikgh/Powerbi-Bank-marketing-campaign-dashboard/tree/main/Images)
 
 ---
 
